@@ -1,0 +1,40 @@
+body{
+    background-color: black!important;
+    color: white!important;
+}
+
+#vermelha{
+    background-color: #800000;
+}
+
+#laranja{
+    background-color: #B34700;
+}
+
+#amarela{
+    background-color: #B36B00;
+}
+
+#roxa{
+    background-color: #600080;
+}
+
+#lilas{
+    background-color: #990073;
+}
+
+.row{
+    border: 1px solid white!important;
+}
+
+#aprovado{
+    color: blue;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#reprovado{
+    color: red;
+    font-size: 1.2em;
+    font-weight: bold;
+}
